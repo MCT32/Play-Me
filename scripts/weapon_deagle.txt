@@ -1,0 +1,59 @@
+WeaponData
+{
+	"printname"		"#RUNT_DEAGLE"
+	"viewmodel"		"models/weapons/v_deagle.mdl"
+	"playermodel"		"models/weapons/w_deagle.mdl"
+	"anim_prefix"		"pistol"
+	"bucket"		"1"
+	"bucket_position"	"2"
+
+	"clip_size"		"8"
+	"primary_ammo"		"357"
+	"secondary_ammo"	"None"
+
+	"weight"		"8"
+	"item_flags"		"0"
+
+	SoundData // TODO sounds
+	{
+		"reload"			"Weapon_Deagle.Reload"
+		"reload_npc"		"Weapon_Deagle.Reload"
+
+		"empty"			"Weapon_Pistol.Empty"
+
+		"single_shot"		"Weapon_Deagle.Single"
+		"single_shot_npc"	"Weapon_Deagle.Single"//Weapon_357.Single
+	}
+
+	TextureData
+	{
+		"weapon"
+		{
+			"font"		"SynFontWeaponIcons"
+			"character"	"t"
+		}
+		"weapon_s"
+		{	
+			"font"		"SynFontSelectedWeaponIcons"
+			"character"	"t"
+		}
+		"ammo"
+		{
+			"font"		"WeaponIcons"
+			"character"	"q"
+		}
+		"crosshair"
+		{
+			"font"		"Crosshairs"
+			"character"	"Q"
+		}
+		"autoaim"
+		{
+			"file"		"sprites/crosshairs"
+			"x"		"0"
+			"y"		"48"
+			"width"		"24"
+			"height"	"24"
+		}
+	}
+}

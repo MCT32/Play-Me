@@ -1,0 +1,37 @@
+"GameInfo"
+{
+	"game"	"Play Me"
+	"title"	"Play Me"
+	"type"	"singleplayer_only"
+	"SupportsDX8" 	0
+	"SupportsVR"	0
+	"SupportsXbox360"	0
+	"GameData"		HalfLife2.fgd
+	"FileSystem"
+	{
+		"SteamAppId"	243730
+		"SearchPaths"
+		{
+			"game"	"|all_source_engine_paths|hl2/hl2_misc.vpk"
+			"game+mod+mod_write+default_write_path"	"|gameinfo_path|."
+			// Source 2013 Singleplayer comes with Episode 2, Episode 1, and Lost Coast content. So let's mount it.
+			"game"		"|All_Source_Engine_Paths|EP2/EP2_Pak.vpk" // EP2 content has the highiest priority.
+			"game"		"|All_Source_Engine_Paths|Episodic/EP1_Pak.vpk"
+			"game"		"|All_Source_Engine_Paths|SourceTest/SourceTest_Pak.vpk" // Lost Coast
+			"gamebin"	"|gameinfo_path|bin"
+			"game_lv"	"|all_source_engine_paths|hl2/hl2_lv.vpk"
+			"game"	"|all_source_engine_paths|hl2/hl2_english.vpk"
+			"game"	"|all_source_engine_paths|hl2/hl2_pak.vpk"
+			"game"	"|all_source_engine_paths|hl2/hl2_textures.vpk"
+			"game"	"|all_source_engine_paths|hl2/hl2_sound_vo_english.vpk"
+			"game"	"|all_source_engine_paths|hl2/hl2_sound_misc.vpk"
+			"platform"	"|all_source_engine_paths|platform/platform_misc.vpk"
+			"game"	"|all_source_engine_paths|hl2"
+			"platform"	"|all_source_engine_paths|platform"
+		}
+	}
+	"developer"	"Megaladon272"
+	"developer_url"	""
+	"manual"	""
+	"modname"	"playme"
+}
