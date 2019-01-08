@@ -1,3 +1,5 @@
+// unused. used in another mod called "hospitality".
+// but still dont fuck this up.
 WeaponData
 {
 	"printname"		"#RUNT_DEAGLE"

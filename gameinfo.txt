@@ -17,7 +17,7 @@
 			// Source 2013 Singleplayer comes with Episode 2, Episode 1, and Lost Coast content. So let's mount it.
 			"game"		"|All_Source_Engine_Paths|EP2/EP2_Pak.vpk" // EP2 content has the highiest priority.
 			"game"		"|All_Source_Engine_Paths|Episodic/EP1_Pak.vpk"
-			"game"		"|All_Source_Engine_Paths|SourceTest/SourceTest_Pak.vpk" // Lost Coast
+			"game"		"|All_Source_Engine_Paths|SourceTest/SourceTest_Pak.vpk" // Ethan says "loast coast is better then normal hl2 so mount it after you dumb bum"
 			"gamebin"	"|gameinfo_path|bin"
 			"game_lv"	"|all_source_engine_paths|hl2/hl2_lv.vpk"
 			"game"	"|all_source_engine_paths|hl2/hl2_english.vpk"
