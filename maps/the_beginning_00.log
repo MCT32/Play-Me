@@ -6170,3 +6170,1648 @@ Level flags = 0
 Total triangle count: 210
 Writing c:\program files (x86)\steam\steamapps\sourcemods\playme\maps\the_beginning_00.bsp
 3 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\Sourcemods\runt\materials
+Loading d:\steam\steamapps\sourcemods\playme\maps\the_beginning_00.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (0.00 0.00 168.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (8738 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 55 texinfos to 32
+Reduced 13 texdatas to 11 (381 bytes to 335)
+Writing d:\steam\steamapps\sourcemods\playme\maps\the_beginning_00.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading d:\steam\steamapps\sourcemods\playme\maps\the_beginning_00.bsp
+reading d:\steam\steamapps\sourcemods\playme\maps\the_beginning_00.prt
+LoadPortals: couldn't read d:\steam\steamapps\sourcemods\playme\maps\the_beginning_00.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading d:\steam\steamapps\sourcemods\playme\maps\the_beginning_00.bsp
+No vis information, direct lighting only.
+148 faces
+138690 square feet [19971392.00 square inches]
+9 Displacements
+14927 Square Feet [2149546.50 Square Inches]
+17 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0014 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   4/1024          192/49152    ( 0.4%) 
+brushes                 22/8192          264/98304    ( 0.3%) 
+brushsides             146/65536        1168/524288   ( 0.2%) 
+planes                 206/65536        4120/1310720  ( 0.3%) 
+vertexes               267/65536        3204/786432   ( 0.4%) 
+nodes                  141/65536        4512/2097152  ( 0.2%) 
+texinfos                32/12288        2304/884736   ( 0.3%) 
+texdata                 11/2048          352/65536    ( 0.5%) 
+dispinfos                9/0            1584/0        ( 0.0%) 
+disp_verts             729/0           14580/0        ( 0.0%) 
+disp_tris             1152/0            2304/0        ( 0.0%) 
+disp_lmsamples       38016/0           38016/0        ( 0.0%) 
+faces                  148/65536        8288/3670016  ( 0.2%) 
+hdr faces              148/65536        8288/3670016  ( 0.2%) 
+origfaces               67/65536        3752/3670016  ( 0.1%) 
+leaves                 146/65536        4672/2097152  ( 0.2%) 
+leaffaces              143/65536         286/131072   ( 0.2%) 
+leafbrushes             45/65536          90/131072   ( 0.1%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges              921/512000       3684/2048000  ( 0.2%) 
+edges                  558/256000       2232/1024000  ( 0.2%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights         17/8192         1496/720896   ( 0.2%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              9/32768          90/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           114/65536         228/131072   ( 0.2%) 
+cubemapsamples           3/1024           48/16384    ( 0.3%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]      132524/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        9037/393216   ( 2.3%) 
+LDR ambient table      146/65536         584/262144   ( 0.2%) 
+HDR ambient table      146/65536         584/262144   ( 0.2%) 
+LDR leaf ambient       146/65536        4088/1835008  ( 0.2%) 
+HDR leaf ambient       962/65536       26936/1835008  ( 1.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/35712    ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/1590     ( 0.1%) 
+pakfile               [variable]       96925/0        ( 0.0%) 
+physics               [variable]        8738/4194304  ( 0.2%) 
+physics terrain       [variable]        2537/1048576  ( 0.2%) 
+
+Level flags = 2
+
+Total triangle count: 357
+Writing d:\steam\steamapps\sourcemods\playme\maps\the_beginning_00.bsp
+3 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\Sourcemods\runt\materials
+Loading d:\steam\steamapps\sourcemods\playme\maps\the_beginning_00.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (0.00 0.00 168.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (8738 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 55 texinfos to 32
+Reduced 13 texdatas to 11 (381 bytes to 335)
+Writing d:\steam\steamapps\sourcemods\playme\maps\the_beginning_00.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading d:\steam\steamapps\sourcemods\playme\maps\the_beginning_00.bsp
+reading d:\steam\steamapps\sourcemods\playme\maps\the_beginning_00.prt
+LoadPortals: couldn't read d:\steam\steamapps\sourcemods\playme\maps\the_beginning_00.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading d:\steam\steamapps\sourcemods\playme\maps\the_beginning_00.bsp
+No vis information, direct lighting only.
+148 faces
+138690 square feet [19971392.00 square inches]
+9 Displacements
+14927 Square Feet [2149546.50 Square Inches]
+17 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0012 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   4/1024          192/49152    ( 0.4%) 
+brushes                 22/8192          264/98304    ( 0.3%) 
+brushsides             146/65536        1168/524288   ( 0.2%) 
+planes                 206/65536        4120/1310720  ( 0.3%) 
+vertexes               267/65536        3204/786432   ( 0.4%) 
+nodes                  141/65536        4512/2097152  ( 0.2%) 
+texinfos                32/12288        2304/884736   ( 0.3%) 
+texdata                 11/2048          352/65536    ( 0.5%) 
+dispinfos                9/0            1584/0        ( 0.0%) 
+disp_verts             729/0           14580/0        ( 0.0%) 
+disp_tris             1152/0            2304/0        ( 0.0%) 
+disp_lmsamples       38016/0           38016/0        ( 0.0%) 
+faces                  148/65536        8288/3670016  ( 0.2%) 
+hdr faces              148/65536        8288/3670016  ( 0.2%) 
+origfaces               67/65536        3752/3670016  ( 0.1%) 
+leaves                 146/65536        4672/2097152  ( 0.2%) 
+leaffaces              143/65536         286/131072   ( 0.2%) 
+leafbrushes             45/65536          90/131072   ( 0.1%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges              921/512000       3684/2048000  ( 0.2%) 
+edges                  558/256000       2232/1024000  ( 0.2%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights         17/8192         1496/720896   ( 0.2%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              9/32768          90/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           114/65536         228/131072   ( 0.2%) 
+cubemapsamples           3/1024           48/16384    ( 0.3%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]      132524/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        9035/393216   ( 2.3%) 
+LDR ambient table      146/65536         584/262144   ( 0.2%) 
+HDR ambient table      146/65536         584/262144   ( 0.2%) 
+LDR leaf ambient       146/65536        4088/1835008  ( 0.2%) 
+HDR leaf ambient       962/65536       26936/1835008  ( 1.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/35712    ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/1590     ( 0.1%) 
+pakfile               [variable]       96925/0        ( 0.0%) 
+physics               [variable]        8738/4194304  ( 0.2%) 
+physics terrain       [variable]        2537/1048576  ( 0.2%) 
+
+Level flags = 2
+
+Total triangle count: 357
+Writing d:\steam\steamapps\sourcemods\playme\maps\the_beginning_00.bsp
+2 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\Sourcemods\runt\materials
+Loading d:\steam\steamapps\sourcemods\playme\maps\the_beginning_00.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (0.00 0.00 168.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (8738 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 55 texinfos to 32
+Reduced 13 texdatas to 11 (381 bytes to 335)
+Writing d:\steam\steamapps\sourcemods\playme\maps\the_beginning_00.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading d:\steam\steamapps\sourcemods\playme\maps\the_beginning_00.bsp
+reading d:\steam\steamapps\sourcemods\playme\maps\the_beginning_00.prt
+LoadPortals: couldn't read d:\steam\steamapps\sourcemods\playme\maps\the_beginning_00.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading d:\steam\steamapps\sourcemods\playme\maps\the_beginning_00.bsp
+No vis information, direct lighting only.
+148 faces
+138690 square feet [19971392.00 square inches]
+9 Displacements
+14927 Square Feet [2149546.50 Square Inches]
+17 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0011 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   4/1024          192/49152    ( 0.4%) 
+brushes                 22/8192          264/98304    ( 0.3%) 
+brushsides             146/65536        1168/524288   ( 0.2%) 
+planes                 206/65536        4120/1310720  ( 0.3%) 
+vertexes               267/65536        3204/786432   ( 0.4%) 
+nodes                  141/65536        4512/2097152  ( 0.2%) 
+texinfos                32/12288        2304/884736   ( 0.3%) 
+texdata                 11/2048          352/65536    ( 0.5%) 
+dispinfos                9/0            1584/0        ( 0.0%) 
+disp_verts             729/0           14580/0        ( 0.0%) 
+disp_tris             1152/0            2304/0        ( 0.0%) 
+disp_lmsamples       38016/0           38016/0        ( 0.0%) 
+faces                  148/65536        8288/3670016  ( 0.2%) 
+hdr faces              148/65536        8288/3670016  ( 0.2%) 
+origfaces               67/65536        3752/3670016  ( 0.1%) 
+leaves                 146/65536        4672/2097152  ( 0.2%) 
+leaffaces              143/65536         286/131072   ( 0.2%) 
+leafbrushes             45/65536          90/131072   ( 0.1%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges              921/512000       3684/2048000  ( 0.2%) 
+edges                  558/256000       2232/1024000  ( 0.2%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights         17/8192         1496/720896   ( 0.2%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              9/32768          90/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           114/65536         228/131072   ( 0.2%) 
+cubemapsamples           3/1024           48/16384    ( 0.3%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]      132524/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        9063/393216   ( 2.3%) 
+LDR ambient table      146/65536         584/262144   ( 0.2%) 
+HDR ambient table      146/65536         584/262144   ( 0.2%) 
+LDR leaf ambient       146/65536        4088/1835008  ( 0.2%) 
+HDR leaf ambient      1008/65536       28224/1835008  ( 1.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/35712    ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/1590     ( 0.1%) 
+pakfile               [variable]       96925/0        ( 0.0%) 
+physics               [variable]        8738/4194304  ( 0.2%) 
+physics terrain       [variable]        2537/1048576  ( 0.2%) 
+
+Level flags = 2
+
+Total triangle count: 357
+Writing d:\steam\steamapps\sourcemods\playme\maps\the_beginning_00.bsp
+2 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\Sourcemods\runt\materials
+Loading d:\steam\steamapps\sourcemods\playme\maps\the_beginning_00.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (0.00 0.00 168.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (8738 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 55 texinfos to 32
+Reduced 13 texdatas to 11 (381 bytes to 335)
+Writing d:\steam\steamapps\sourcemods\playme\maps\the_beginning_00.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading d:\steam\steamapps\sourcemods\playme\maps\the_beginning_00.bsp
+reading d:\steam\steamapps\sourcemods\playme\maps\the_beginning_00.prt
+LoadPortals: couldn't read d:\steam\steamapps\sourcemods\playme\maps\the_beginning_00.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading d:\steam\steamapps\sourcemods\playme\maps\the_beginning_00.bsp
+No vis information, direct lighting only.
+148 faces
+138690 square feet [19971392.00 square inches]
+9 Displacements
+14927 Square Feet [2149546.50 Square Inches]
+17 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0067 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   4/1024          192/49152    ( 0.4%) 
+brushes                 22/8192          264/98304    ( 0.3%) 
+brushsides             146/65536        1168/524288   ( 0.2%) 
+planes                 206/65536        4120/1310720  ( 0.3%) 
+vertexes               267/65536        3204/786432   ( 0.4%) 
+nodes                  141/65536        4512/2097152  ( 0.2%) 
+texinfos                32/12288        2304/884736   ( 0.3%) 
+texdata                 11/2048          352/65536    ( 0.5%) 
+dispinfos                9/0            1584/0        ( 0.0%) 
+disp_verts             729/0           14580/0        ( 0.0%) 
+disp_tris             1152/0            2304/0        ( 0.0%) 
+disp_lmsamples       38016/0           38016/0        ( 0.0%) 
+faces                  148/65536        8288/3670016  ( 0.2%) 
+hdr faces              148/65536        8288/3670016  ( 0.2%) 
+origfaces               67/65536        3752/3670016  ( 0.1%) 
+leaves                 146/65536        4672/2097152  ( 0.2%) 
+leaffaces              143/65536         286/131072   ( 0.2%) 
+leafbrushes             45/65536          90/131072   ( 0.1%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges              921/512000       3684/2048000  ( 0.2%) 
+edges                  558/256000       2232/1024000  ( 0.2%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights         17/8192         1496/720896   ( 0.2%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              9/32768          90/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           114/65536         228/131072   ( 0.2%) 
+cubemapsamples           3/1024           48/16384    ( 0.3%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]      132524/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        9063/393216   ( 2.3%) 
+LDR ambient table      146/65536         584/262144   ( 0.2%) 
+HDR ambient table      146/65536         584/262144   ( 0.2%) 
+LDR leaf ambient       146/65536        4088/1835008  ( 0.2%) 
+HDR leaf ambient      1008/65536       28224/1835008  ( 1.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/35712    ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/1590     ( 0.1%) 
+pakfile               [variable]       96925/0        ( 0.0%) 
+physics               [variable]        8738/4194304  ( 0.2%) 
+physics terrain       [variable]        2537/1048576  ( 0.2%) 
+
+Level flags = 2
+
+Total triangle count: 357
+Writing d:\steam\steamapps\sourcemods\playme\maps\the_beginning_00.bsp
+7 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\Sourcemods\runt\materials
+Loading d:\steam\steamapps\sourcemods\playme\maps\the_beginning_00.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (0.00 0.00 168.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (8738 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 55 texinfos to 32
+Reduced 13 texdatas to 11 (381 bytes to 335)
+Writing d:\steam\steamapps\sourcemods\playme\maps\the_beginning_00.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading d:\steam\steamapps\sourcemods\playme\maps\the_beginning_00.bsp
+reading d:\steam\steamapps\sourcemods\playme\maps\the_beginning_00.prt
+LoadPortals: couldn't read d:\steam\steamapps\sourcemods\playme\maps\the_beginning_00.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading d:\steam\steamapps\sourcemods\playme\maps\the_beginning_00.bsp
+No vis information, direct lighting only.
+148 faces
+138690 square feet [19971392.00 square inches]
+9 Displacements
+14927 Square Feet [2149546.50 Square Inches]
+17 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0064 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   4/1024          192/49152    ( 0.4%) 
+brushes                 22/8192          264/98304    ( 0.3%) 
+brushsides             146/65536        1168/524288   ( 0.2%) 
+planes                 206/65536        4120/1310720  ( 0.3%) 
+vertexes               267/65536        3204/786432   ( 0.4%) 
+nodes                  141/65536        4512/2097152  ( 0.2%) 
+texinfos                32/12288        2304/884736   ( 0.3%) 
+texdata                 11/2048          352/65536    ( 0.5%) 
+dispinfos                9/0            1584/0        ( 0.0%) 
+disp_verts             729/0           14580/0        ( 0.0%) 
+disp_tris             1152/0            2304/0        ( 0.0%) 
+disp_lmsamples      553392/0          553392/0        ( 0.0%) 
+faces                  148/65536        8288/3670016  ( 0.2%) 
+hdr faces              148/65536        8288/3670016  ( 0.2%) 
+origfaces               67/65536        3752/3670016  ( 0.1%) 
+leaves                 146/65536        4672/2097152  ( 0.2%) 
+leaffaces              143/65536         286/131072   ( 0.2%) 
+leafbrushes             45/65536          90/131072   ( 0.1%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges              921/512000       3684/2048000  ( 0.2%) 
+edges                  558/256000       2232/1024000  ( 0.2%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights         17/8192         1496/720896   ( 0.2%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              9/32768          90/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           114/65536         228/131072   ( 0.2%) 
+cubemapsamples           3/1024           48/16384    ( 0.3%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]      647900/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        9063/393216   ( 2.3%) 
+LDR ambient table      146/65536         584/262144   ( 0.2%) 
+HDR ambient table      146/65536         584/262144   ( 0.2%) 
+LDR leaf ambient       146/65536        4088/1835008  ( 0.2%) 
+HDR leaf ambient      1008/65536       28224/1835008  ( 1.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/35712    ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/1590     ( 0.1%) 
+pakfile               [variable]       96925/0        ( 0.0%) 
+physics               [variable]        8738/4194304  ( 0.2%) 
+physics terrain       [variable]        2537/1048576  ( 0.2%) 
+
+Level flags = 2
+
+Total triangle count: 357
+Writing d:\steam\steamapps\sourcemods\playme\maps\the_beginning_00.bsp
+8 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\Sourcemods\runt\materials
+Loading d:\steam\steamapps\sourcemods\playme\maps\the_beginning_00.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (0.00 0.00 168.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (0.0 2560.0 102.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1024.0 2560.0 102.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (512.0 3072.0 102.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (440.0 1024.0 -128.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (952.0 1024.0 -128.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (120.0 1024.0 84.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (248.0 1024.0 84.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (568.0 1024.0 84.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (13717 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 90 texinfos to 67
+Reduced 19 texdatas to 17 (556 bytes to 510)
+Writing d:\steam\steamapps\sourcemods\playme\maps\the_beginning_00.bsp
+1 second elapsed
+
+
+
+4 threads
+reading d:\steam\steamapps\sourcemods\playme\maps\the_beginning_00.bsp
+reading d:\steam\steamapps\sourcemods\playme\maps\the_beginning_00.prt
+LoadPortals: couldn't read d:\steam\steamapps\sourcemods\playme\maps\the_beginning_00.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading d:\steam\steamapps\sourcemods\playme\maps\the_beginning_00.bsp
+No vis information, direct lighting only.
+548 faces
+451612 square feet [65032220.00 square inches]
+9 Displacements
+14927 Square Feet [2149546.50 Square Inches]
+17 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0147 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   4/1024          192/49152    ( 0.4%) 
+brushes                 35/8192          420/98304    ( 0.4%) 
+brushsides             224/65536        1792/524288   ( 0.3%) 
+planes                 298/65536        5960/1310720  ( 0.5%) 
+vertexes               779/65536        9348/786432   ( 1.2%) 
+nodes                  375/65536       12000/2097152  ( 0.6%) 
+texinfos                67/12288        4824/884736   ( 0.5%) 
+texdata                 17/2048          544/65536    ( 0.8%) 
+dispinfos                9/0            1584/0        ( 0.0%) 
+disp_verts             729/0           14580/0        ( 0.0%) 
+disp_tris             1152/0            2304/0        ( 0.0%) 
+disp_lmsamples      553392/0          553392/0        ( 0.0%) 
+faces                  548/65536       30688/3670016  ( 0.8%) 
+hdr faces              548/65536       30688/3670016  ( 0.8%) 
+origfaces              131/65536        7336/3670016  ( 0.2%) 
+leaves                 380/65536       12160/2097152  ( 0.6%) 
+leaffaces              598/65536        1196/131072   ( 0.9%) 
+leafbrushes            124/65536         248/131072   ( 0.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             2978/512000      11912/2048000  ( 0.6%) 
+edges                 1621/256000       6484/1024000  ( 0.6%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights         17/8192         1496/720896   ( 0.2%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             17/32768         170/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           231/65536         462/131072   ( 0.4%) 
+cubemapsamples           3/1024           48/16384    ( 0.3%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     1084160/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        9065/393216   ( 2.3%) 
+LDR ambient table      380/65536        1520/262144   ( 0.6%) 
+HDR ambient table      380/65536        1520/262144   ( 0.6%) 
+LDR leaf ambient       380/65536       10640/1835008  ( 0.6%) 
+HDR leaf ambient      2461/65536       68908/1835008  ( 3.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/35712    ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/1590     ( 0.1%) 
+pakfile               [variable]       96925/0        ( 0.0%) 
+physics               [variable]       13717/4194304  ( 0.3%) 
+physics terrain       [variable]        2537/1048576  ( 0.2%) 
+
+Level flags = 2
+
+Total triangle count: 1358
+Writing d:\steam\steamapps\sourcemods\playme\maps\the_beginning_00.bsp
+11 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\Sourcemods\runt\materials
+Loading d:\steam\steamapps\sourcemods\playme\maps\the_beginning_00.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (0.00 0.00 168.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (0.0 2560.0 102.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1024.0 2560.0 102.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (512.0 3072.0 102.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (440.0 1024.0 -128.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (952.0 1024.0 -128.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (120.0 1024.0 84.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (248.0 1024.0 84.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (568.0 1024.0 84.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (13314 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 90 texinfos to 62
+Reduced 19 texdatas to 16 (556 bytes to 488)
+Writing d:\steam\steamapps\sourcemods\playme\maps\the_beginning_00.bsp
+1 second elapsed
+
+
+
+4 threads
+reading d:\steam\steamapps\sourcemods\playme\maps\the_beginning_00.bsp
+reading d:\steam\steamapps\sourcemods\playme\maps\the_beginning_00.prt
+LoadPortals: couldn't read d:\steam\steamapps\sourcemods\playme\maps\the_beginning_00.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading d:\steam\steamapps\sourcemods\playme\maps\the_beginning_00.bsp
+No vis information, direct lighting only.
+379 faces
+432463 square feet [62274748.00 square inches]
+10 Displacements
+80136 Square Feet [11539608.00 Square Inches]
+17 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0090 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   4/1024          192/49152    ( 0.4%) 
+brushes                 34/8192          408/98304    ( 0.4%) 
+brushsides             218/65536        1744/524288   ( 0.3%) 
+planes                 298/65536        5960/1310720  ( 0.5%) 
+vertexes               577/65536        6924/786432   ( 0.9%) 
+nodes                  342/65536       10944/2097152  ( 0.5%) 
+texinfos                62/12288        4464/884736   ( 0.5%) 
+texdata                 16/2048          512/65536    ( 0.8%) 
+dispinfos               10/0            1760/0        ( 0.0%) 
+disp_verts             754/0           15080/0        ( 0.0%) 
+disp_tris             1184/0            2368/0        ( 0.0%) 
+disp_lmsamples      590688/0          590688/0        ( 0.0%) 
+faces                  379/65536       21224/3670016  ( 0.6%) 
+hdr faces              379/65536       21224/3670016  ( 0.6%) 
+origfaces              126/65536        7056/3670016  ( 0.2%) 
+leaves                 347/65536       11104/2097152  ( 0.5%) 
+leaffaces              396/65536         792/131072   ( 0.6%) 
+leafbrushes            114/65536         228/131072   ( 0.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             2210/512000       8840/2048000  ( 0.4%) 
+edges                 1245/256000       4980/1024000  ( 0.5%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights         17/8192         1496/720896   ( 0.2%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             11/32768         110/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           135/65536         270/131072   ( 0.2%) 
+cubemapsamples           3/1024           48/16384    ( 0.3%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]      780744/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        9065/393216   ( 2.3%) 
+LDR ambient table      347/65536        1388/262144   ( 0.5%) 
+HDR ambient table      347/65536        1388/262144   ( 0.5%) 
+LDR leaf ambient       347/65536        9716/1835008  ( 0.5%) 
+HDR leaf ambient      2153/65536       60284/1835008  ( 3.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/236796   ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/1590     ( 0.1%) 
+pakfile               [variable]       96925/0        ( 0.0%) 
+physics               [variable]       13314/4194304  ( 0.3%) 
+physics terrain       [variable]        2604/1048576  ( 0.2%) 
+
+Level flags = 2
+
+Total triangle count: 948
+Writing d:\steam\steamapps\sourcemods\playme\maps\the_beginning_00.bsp
+11 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\Sourcemods\runt\materials
+Loading d:\steam\steamapps\sourcemods\playme\maps\the_beginning_00.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/the_beginning_00/nature/blendgrassgravel002b_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (0.00 0.00 168.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (0.0 2560.0 317.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1024.0 2560.0 317.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (512.0 3072.0 317.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (440.0 1024.0 -128.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (952.0 1024.0 -128.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (120.0 1024.0 84.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (248.0 1024.0 84.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (568.0 1024.0 84.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (13389 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 91 texinfos to 64
+Reduced 20 texdatas to 18 (616 bytes to 570)
+Writing d:\steam\steamapps\sourcemods\playme\maps\the_beginning_00.bsp
+1 second elapsed
+
+
+
+4 threads
+reading d:\steam\steamapps\sourcemods\playme\maps\the_beginning_00.bsp
+reading d:\steam\steamapps\sourcemods\playme\maps\the_beginning_00.prt
+LoadPortals: couldn't read d:\steam\steamapps\sourcemods\playme\maps\the_beginning_00.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading d:\steam\steamapps\sourcemods\playme\maps\the_beginning_00.bsp
+Loaded alpha texture materials\models\props_foliage\arbre01.vtf
+No vis information, direct lighting only.
+1200 faces
+530174 square feet [76345104.00 square inches]
+9 Displacements
+14927 Square Feet [2149546.50 Square Inches]
+17 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.1002 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   4/1024          192/49152    ( 0.4%) 
+brushes                 35/8192          420/98304    ( 0.4%) 
+brushsides             224/65536        1792/524288   ( 0.3%) 
+planes                 302/65536        6040/1310720  ( 0.5%) 
+vertexes              1513/65536       18156/786432   ( 2.3%) 
+nodes                  369/65536       11808/2097152  ( 0.6%) 
+texinfos                64/12288        4608/884736   ( 0.5%) 
+texdata                 18/2048          576/65536    ( 0.9%) 
+dispinfos                9/0            1584/0        ( 0.0%) 
+disp_verts             729/0           14580/0        ( 0.0%) 
+disp_tris             1152/0            2304/0        ( 0.0%) 
+disp_lmsamples      553392/0          553392/0        ( 0.0%) 
+faces                 1200/65536       67200/3670016  ( 1.8%) 
+hdr faces             1200/65536       67200/3670016  ( 1.8%) 
+origfaces              123/65536        6888/3670016  ( 0.2%) 
+leaves                 374/65536       11968/2097152  ( 0.6%) 
+leaffaces             1427/65536        2854/131072   ( 2.2%) 
+leafbrushes            132/65536         264/131072   ( 0.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             5687/512000      22748/2048000  ( 1.1%) 
+edges                 2981/256000      11924/1024000  ( 1.2%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights         17/8192         1496/720896   ( 0.2%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             28/32768         280/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           393/65536         786/131072   ( 0.6%) 
+cubemapsamples           3/1024           48/16384    ( 0.3%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     3532604/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        9065/393216   ( 2.3%) 
+LDR ambient table      374/65536        1496/262144   ( 0.6%) 
+HDR ambient table      374/65536        1496/262144   ( 0.6%) 
+LDR leaf ambient       374/65536       10472/1835008  ( 0.6%) 
+HDR leaf ambient      2261/65536       63308/1835008  ( 3.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/35712    ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/3336     ( 0.0%) 
+pakfile               [variable]      653158/0        ( 0.0%) 
+physics               [variable]       13389/4194304  ( 0.3%) 
+physics terrain       [variable]        2537/1048576  ( 0.2%) 
+
+Level flags = 2
+
+Total triangle count: 2795
+Writing d:\steam\steamapps\sourcemods\playme\maps\the_beginning_00.bsp
+2 minutes, 30 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\Sourcemods\runt\materials
+Loading d:\steam\steamapps\sourcemods\playme\maps\the_beginning_00.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/the_beginning_00/nature/blendgrassgravel002b_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (0.00 0.00 168.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (0.0 2560.0 317.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1024.0 2560.0 317.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (512.0 3072.0 317.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (440.0 1024.0 -128.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (952.0 1024.0 -128.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (120.0 1024.0 84.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (248.0 1024.0 84.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (568.0 1024.0 84.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (14437 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 102 texinfos to 73
+Reduced 20 texdatas to 18 (616 bytes to 570)
+Writing d:\steam\steamapps\sourcemods\playme\maps\the_beginning_00.bsp
+1 second elapsed
+
+
+
+4 threads
+reading d:\steam\steamapps\sourcemods\playme\maps\the_beginning_00.bsp
+reading d:\steam\steamapps\sourcemods\playme\maps\the_beginning_00.prt
+LoadPortals: couldn't read d:\steam\steamapps\sourcemods\playme\maps\the_beginning_00.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading d:\steam\steamapps\sourcemods\playme\maps\the_beginning_00.bsp
+Loaded alpha texture materials\models\props_foliage\arbre01.vtf
+No vis information, direct lighting only.
+1206 faces
+542021 square feet [78051104.00 square inches]
+9 Displacements
+14927 Square Feet [2149546.50 Square Inches]
+17 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0512 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   4/1024          192/49152    ( 0.4%) 
+brushes                 37/8192          444/98304    ( 0.5%) 
+brushsides             236/65536        1888/524288   ( 0.4%) 
+planes                 302/65536        6040/1310720  ( 0.5%) 
+vertexes              1520/65536       18240/786432   ( 2.3%) 
+nodes                  409/65536       13088/2097152  ( 0.6%) 
+texinfos                73/12288        5256/884736   ( 0.6%) 
+texdata                 18/2048          576/65536    ( 0.9%) 
+dispinfos                9/0            1584/0        ( 0.0%) 
+disp_verts             729/0           14580/0        ( 0.0%) 
+disp_tris             1152/0            2304/0        ( 0.0%) 
+disp_lmsamples      553392/0          553392/0        ( 0.0%) 
+faces                 1206/65536       67536/3670016  ( 1.8%) 
+hdr faces             1206/65536       67536/3670016  ( 1.8%) 
+origfaces              137/65536        7672/3670016  ( 0.2%) 
+leaves                 414/65536       13248/2097152  ( 0.6%) 
+leaffaces             1307/65536        2614/131072   ( 2.0%) 
+leafbrushes            149/65536         298/131072   ( 0.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             5777/512000      23108/2048000  ( 1.1%) 
+edges                 3029/256000      12116/1024000  ( 1.2%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights         17/8192         1496/720896   ( 0.2%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             22/32768         220/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           300/65536         600/131072   ( 0.5%) 
+cubemapsamples           3/1024           48/16384    ( 0.3%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     3326672/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        9065/393216   ( 2.3%) 
+LDR ambient table      414/65536        1656/262144   ( 0.6%) 
+HDR ambient table      414/65536        1656/262144   ( 0.6%) 
+LDR leaf ambient       414/65536       11592/1835008  ( 0.6%) 
+HDR leaf ambient      2602/65536       72856/1835008  ( 4.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/35712    ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/7392     ( 0.0%) 
+pakfile               [variable]     2030620/0        ( 0.0%) 
+physics               [variable]       14437/4194304  ( 0.3%) 
+physics terrain       [variable]        2537/1048576  ( 0.2%) 
+
+Level flags = 2
+
+Total triangle count: 2817
+Writing d:\steam\steamapps\sourcemods\playme\maps\the_beginning_00.bsp
+4 minutes, 35 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\Sourcemods\runt\materials
+Loading d:\steam\steamapps\sourcemods\playme\maps\the_beginning_00.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/the_beginning_00/nature/blendgrassgravel002b_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (0.00 0.00 168.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (0.0 2560.0 317.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1024.0 2560.0 317.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (512.0 3072.0 317.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (440.0 1024.0 -128.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (952.0 1024.0 -128.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (120.0 1024.0 84.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (248.0 1024.0 84.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (568.0 1024.0 84.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (14437 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 102 texinfos to 73
+Reduced 20 texdatas to 18 (616 bytes to 570)
+Writing d:\steam\steamapps\sourcemods\playme\maps\the_beginning_00.bsp
+1 second elapsed
+
+
+
+4 threads
+reading d:\steam\steamapps\sourcemods\playme\maps\the_beginning_00.bsp
+reading d:\steam\steamapps\sourcemods\playme\maps\the_beginning_00.prt
+LoadPortals: couldn't read d:\steam\steamapps\sourcemods\playme\maps\the_beginning_00.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading d:\steam\steamapps\sourcemods\playme\maps\the_beginning_00.bsp
+Loaded alpha texture materials\models\props_foliage\arbre01.vtf
+No vis information, direct lighting only.
+1206 faces
+542021 square feet [78051104.00 square inches]
+9 Displacements
+14927 Square Feet [2149546.50 Square Inches]
+17 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0514 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   4/1024          192/49152    ( 0.4%) 
+brushes                 37/8192          444/98304    ( 0.5%) 
+brushsides             236/65536        1888/524288   ( 0.4%) 
+planes                 302/65536        6040/1310720  ( 0.5%) 
+vertexes              1520/65536       18240/786432   ( 2.3%) 
+nodes                  409/65536       13088/2097152  ( 0.6%) 
+texinfos                73/12288        5256/884736   ( 0.6%) 
+texdata                 18/2048          576/65536    ( 0.9%) 
+dispinfos                9/0            1584/0        ( 0.0%) 
+disp_verts             729/0           14580/0        ( 0.0%) 
+disp_tris             1152/0            2304/0        ( 0.0%) 
+disp_lmsamples      553392/0          553392/0        ( 0.0%) 
+faces                 1206/65536       67536/3670016  ( 1.8%) 
+hdr faces             1206/65536       67536/3670016  ( 1.8%) 
+origfaces              137/65536        7672/3670016  ( 0.2%) 
+leaves                 414/65536       13248/2097152  ( 0.6%) 
+leaffaces             1307/65536        2614/131072   ( 2.0%) 
+leafbrushes            149/65536         298/131072   ( 0.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             5777/512000      23108/2048000  ( 1.1%) 
+edges                 3029/256000      12116/1024000  ( 1.2%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights         17/8192         1496/720896   ( 0.2%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             22/32768         220/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           300/65536         600/131072   ( 0.5%) 
+cubemapsamples           3/1024           48/16384    ( 0.3%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     3326672/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        9065/393216   ( 2.3%) 
+LDR ambient table      414/65536        1656/262144   ( 0.6%) 
+HDR ambient table      414/65536        1656/262144   ( 0.6%) 
+LDR leaf ambient       414/65536       11592/1835008  ( 0.6%) 
+HDR leaf ambient      2602/65536       72856/1835008  ( 4.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/35712    ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/7392     ( 0.0%) 
+pakfile               [variable]     2030620/0        ( 0.0%) 
+physics               [variable]       14437/4194304  ( 0.3%) 
+physics terrain       [variable]        2537/1048576  ( 0.2%) 
+
+Level flags = 2
+
+Total triangle count: 2817
+Writing d:\steam\steamapps\sourcemods\playme\maps\the_beginning_00.bsp
+4 minutes, 31 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\Sourcemods\runt\materials
+Loading d:\steam\steamapps\sourcemods\playme\maps\the_beginning_00.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/the_beginning_00/nature/blendgrassgravel002b_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (0.00 0.00 168.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (0.0 2560.0 317.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1024.0 2560.0 317.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (512.0 3072.0 317.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (440.0 1024.0 -128.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (952.0 1024.0 -128.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (120.0 1024.0 84.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (248.0 1024.0 84.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (568.0 1024.0 84.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (14437 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 102 texinfos to 73
+Reduced 20 texdatas to 18 (616 bytes to 570)
+Writing d:\steam\steamapps\sourcemods\playme\maps\the_beginning_00.bsp
+1 second elapsed
+
+
+
+4 threads
+reading d:\steam\steamapps\sourcemods\playme\maps\the_beginning_00.bsp
+reading d:\steam\steamapps\sourcemods\playme\maps\the_beginning_00.prt
+LoadPortals: couldn't read d:\steam\steamapps\sourcemods\playme\maps\the_beginning_00.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading d:\steam\steamapps\sourcemods\playme\maps\the_beginning_00.bsp
+Loaded alpha texture materials\models\props_foliage\arbre01.vtf
+No vis information, direct lighting only.
+1206 faces
+542021 square feet [78051104.00 square inches]
+9 Displacements
+14927 Square Feet [2149546.50 Square Inches]
+17 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0484 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   4/1024          192/49152    ( 0.4%) 
+brushes                 37/8192          444/98304    ( 0.5%) 
+brushsides             236/65536        1888/524288   ( 0.4%) 
+planes                 302/65536        6040/1310720  ( 0.5%) 
+vertexes              1520/65536       18240/786432   ( 2.3%) 
+nodes                  409/65536       13088/2097152  ( 0.6%) 
+texinfos                73/12288        5256/884736   ( 0.6%) 
+texdata                 18/2048          576/65536    ( 0.9%) 
+dispinfos                9/0            1584/0        ( 0.0%) 
+disp_verts             729/0           14580/0        ( 0.0%) 
+disp_tris             1152/0            2304/0        ( 0.0%) 
+disp_lmsamples      553392/0          553392/0        ( 0.0%) 
+faces                 1206/65536       67536/3670016  ( 1.8%) 
+hdr faces             1206/65536       67536/3670016  ( 1.8%) 
+origfaces              137/65536        7672/3670016  ( 0.2%) 
+leaves                 414/65536       13248/2097152  ( 0.6%) 
+leaffaces             1307/65536        2614/131072   ( 2.0%) 
+leafbrushes            149/65536         298/131072   ( 0.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             5777/512000      23108/2048000  ( 1.1%) 
+edges                 3029/256000      12116/1024000  ( 1.2%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights         17/8192         1496/720896   ( 0.2%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             22/32768         220/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           300/65536         600/131072   ( 0.5%) 
+cubemapsamples           3/1024           48/16384    ( 0.3%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     3326672/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        9065/393216   ( 2.3%) 
+LDR ambient table      414/65536        1656/262144   ( 0.6%) 
+HDR ambient table      414/65536        1656/262144   ( 0.6%) 
+LDR leaf ambient       414/65536       11592/1835008  ( 0.6%) 
+HDR leaf ambient      2602/65536       72856/1835008  ( 4.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/35712    ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/7392     ( 0.0%) 
+pakfile               [variable]     2030620/0        ( 0.0%) 
+physics               [variable]       14437/4194304  ( 0.3%) 
+physics terrain       [variable]        2537/1048576  ( 0.2%) 
+
+Level flags = 2
+
+Total triangle count: 2817
+Writing d:\steam\steamapps\sourcemods\playme\maps\the_beginning_00.bsp
+4 minutes, 48 seconds elapsed
