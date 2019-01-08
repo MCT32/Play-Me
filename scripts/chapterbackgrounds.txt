@@ -1,6 +1,6 @@
 "chapters"
 {
-	1	"background01"
-	2	"background02"
-	3	"background01"
+	1	"the_beginning_00"
+	2	"the_beginning_01"
+	3	"the_beginning_02"
 }
