@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "6440"
-	"mapversion" "39"
+	"mapversion" "40"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "39"
+	"mapversion" "40"
 	"classname" "worldspawn"
 	"chaptertitle" "The Beginning"
 	"detailmaterial" "detail/detailsprites"
@@ -2498,8 +2498,13 @@ entity
 	"damagescale" "1.0"
 	"fireattack" "0"
 	"firesize" "64"
-	"health" "99999"
+	"health" "0"
 	"ignitionpoint" "32"
+	"spawnflags" "5"
+	connections
+	{
+		"" ",,,0,-1"
+	}
 	"origin" "-618 -117 55"
 	editor
 	{

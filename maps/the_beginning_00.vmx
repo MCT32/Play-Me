@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "6440"
-	"mapversion" "38"
+	"mapversion" "39"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "38"
+	"mapversion" "39"
 	"classname" "worldspawn"
 	"chaptertitle" "The Beginning"
 	"detailmaterial" "detail/detailsprites"
@@ -187,7 +187,7 @@ world
 		{
 			"id" "60"
 			"plane" "(-256 -240 152) (-256 -240 16) (-256 240 16)"
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "BUILDING_TEMPLATE/BUILDING_TEMPLATE011M"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
